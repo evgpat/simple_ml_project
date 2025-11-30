@@ -1,2 +1,5 @@
-# simple_ml_project
-Simple ML project
+# Предсказание стоимости поездки в сервисе такси
+
+## Для запуска введите
+
+Run main.py
